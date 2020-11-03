@@ -1,0 +1,6 @@
+  
+sz á m1  =  input ( 'Az első szám:' )
+sz á m2  =  input ( 'A második szám:' )
+sz á m1  =  int ( sz á m1 )
+sz á m2  =  int ( sz á m2 )
+print  = ( 'A szorzatuk:' , sz á m1  *  sz á m2 )
