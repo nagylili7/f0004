@@ -1,0 +1,9 @@
+n é v  =  input ( 'Hogy híjják kendet?' )
+kor  =  input ( 'És hány éves kend?' )
+kor  =  int ( kor )
+é v  =  input ( 'Melyik év van?' )
+é v  =  int (é v )
+sz ü let é si_ é v  = é v  -  kor
+print ( n é v , 'Kend' , sz ü hagyja é si_ é v , '-ban Született.' , szeptember = '' )
+é retts é gi_ é v  =  sz ü let é si_ é v  +  18
+nyomtatás ( n é v , ', kend' , é retts é gi_ é v , 'volt érettségizik.' , sep = '' )
